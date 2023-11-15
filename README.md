@@ -21,6 +21,7 @@ The following **required** functionality is completed:
 Eembed Loom videos on GitHub. 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4)
 
+To see **ColorTap** demo on iPhone!
 <div>
     <a href="https://www.loom.com/share/d360869bc7654248916a698a4f104a70">
     </a>
