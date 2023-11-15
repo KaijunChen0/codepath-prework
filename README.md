@@ -29,7 +29,7 @@ Eembed Loom videos on GitHub.
     </a>
 </div>
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 
 ## Notes
 
