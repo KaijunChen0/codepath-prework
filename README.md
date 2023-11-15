@@ -19,16 +19,11 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Eembed Loom videos on GitHub. 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4)
+[Guide](https://www.youtube.com/watch?v=GA92eKlYio4)
 
-To see **ColorTap** demo on iPhone!
-<div>
-    <a href="https://www.loom.com/share/d360869bc7654248916a698a4f104a70">
-    </a>
-    📲<a href="https://www.loom.com/share/d360869bc7654248916a698a4f104a70">
-      <img style="max-width:300px;" src="https://www.loom.com/share/d360869bc7654248916a698a4f104a70">
-    </a>
-</div>
+To see **ColorTap** demo on iPhone📲 
+
+https://www.loom.com/share/d360869bc7654248916a698a4f104a70
 
 ## App Brainstorming
 
