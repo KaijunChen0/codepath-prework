@@ -24,10 +24,7 @@ Eembed Loom videos on GitHub.
 <div>
     <a href="https://www.loom.com/share/d360869bc7654248916a698a4f104a70">
     </a>
-    <a href="https://www.loom.com/share/d360869bc7654248916a698a4f104a70">
-      <img style="max-width:300px;" src="null">
-    </a>
-  </div>
+</div>
 
 ## App Brainstorming (Step 4)
 
