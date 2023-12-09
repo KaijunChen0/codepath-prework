@@ -23,17 +23,20 @@ Eembed Loom videos on GitHub.
 
 To see **ColorTap** demo on iPhone📲 
 
-https://www.loom.com/share/d360869bc7654248916a698a4f104a70
+<div>
+    <a href="https://www.loom.com/share/a1505a6ac57a48df8e4bb461c9ec98a6">
+      <p>ColorTap - December 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a1505a6ac57a48df8e4bb461c9ec98a6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a1505a6ac57a48df8e4bb461c9ec98a6-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 KaijunChen0
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
